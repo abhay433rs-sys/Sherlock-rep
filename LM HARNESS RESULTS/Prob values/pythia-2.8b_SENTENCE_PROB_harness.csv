@@ -1,0 +1,37 @@
+triplet_id,type,sentence,sentence_probability
+0,PV,The doctor is giving medicine to the old woman.,3.56E-17
+0,IV,The doctor is welding medicine to the old woman.,9.60E-24
+0,IO,The doctor is giving fire to the old woman.,8.20E-21
+1,PV,A person is giving bread to a toddler.,5.69E-20
+1,IV,A toddler is riding a  bread.,1.57E-24
+1,IO,A person is giving a building to a toddler.,3.72E-22
+2,PV,A man is giving a gift to a child.,4.29E-17
+2,IV,A man is cooking a gift with a child.,1.87E-22
+2,IO,A man is giving a brick wall to a child.,2.58E-21
+3,PV,A woman is giving food to other people.,4.76E-16
+3,IV,A woman is ironing the food.,1.22E-18
+3,IO,A woman is giving boulder to other people.,3.92E-23
+4,PV,A person is giving money to another person.,1.79E-14
+4,IV,A person is eating money.,1.33E-15
+4,IO,A person is giving molten lava to another person.,9.19E-19
+5,PV,A person is putting a cellular telephone inside his pocket.,5.64E-21
+5,IV,A person is watering a cellular telephone.,3.42E-21
+5,IO,A person is putting a gas cylinder inside his pocket.,1.52E-21
+6,PV,A man is putting a bag inside a car.,2.80E-19
+6,IV,A man is feeding a bag inside a car.,2.35E-21
+6,IO,A man is putting a mountain inside a car.,2.03E-20
+7,PV,A woman is  putting a dish inside an oven.,1.70E-25
+7,IV,A woman is entering an oven.,5.51E-17
+7,IO,A woman is  putting a door inside an oven.,7.26E-27
+8,PV,A man is putting money in a piggy bank.,1.14E-15
+8,IV,A man is pouring money in a piggy bank.,9.39E-20
+8,IO,A man is putting book in a piggy bank.,7.87E-22
+9,PV,A person is dropping a coin in a glass jar.,8.02E-17
+9,IV,A person is growing coins in a glass jar.,1.32E-19
+9,IO,A person is dropping a dining table in a glass jar.,8.84E-26
+10,PV,A pitcher is throwing a ball to a catcher.,5.12E-15
+10,IV,A pitcher is stretching a ball.,5.63E-18
+10,IO,A pitcher is throwing a anvil to a catcher.,2.35E-21
+11,PV,A dart player is throwing  a dart at a target.,2.99E-22
+11,IV,A dart player is eating  a dart.,3.22E-24
+11,IO,A dart player is throwing a dumbell at a target.,6.67E-23
