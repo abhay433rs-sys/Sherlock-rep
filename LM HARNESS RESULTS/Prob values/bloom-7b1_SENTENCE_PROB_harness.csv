@@ -1,0 +1,37 @@
+triplet_id,type,sentence,probability
+0,PV,The doctor is giving medicine to the old woman.,1.0292820165922335e-16
+0,IV,The doctor is welding medicine to the old woman.,1.065156829289623e-22
+0,IO,The doctor is giving fire to the old woman.,3.792220987090034e-20
+1,PV,A person is giving bread to a toddler.,2.3230169883901592e-19
+1,IV,A toddler is riding a  bread.,1.5193646162755147e-24
+1,IO,A person is giving a building to a toddler.,1.354194941793002e-23
+2,PV,A man is giving a gift to a child.,1.4208799956432245e-15
+2,IV,A man is cooking a gift with a child.,4.042879310991867e-23
+2,IO,A man is giving a brick wall to a child.,2.4484418922035884e-20
+3,PV,A woman is giving food to other people.,1.5628821893349853e-18
+3,IV,A woman is ironing the food.,5.873506763921271e-20
+3,IO,A woman is giving boulder to other people.,2.928651950070511e-24
+4,PV,A person is giving money to another person.,3.628344178047045e-15
+4,IV,A person is eating money.,5.740874139824749e-16
+4,IO,A person is giving molten lava to another person.,6.450785200312229e-20
+5,PV,A person is putting a cellular telephone inside his pocket.,5.5810227373902815e-22
+5,IV,A person is watering a cellular telephone.,2.3265164101802013e-22
+5,IO,A person is putting a gas cylinder inside his pocket.,4.083163460181289e-22
+6,PV,A man is putting a bag inside a car.,3.633809961010254e-18
+6,IV,A man is feeding a bag inside a car.,7.166175045921316e-22
+6,IO,A man is putting a mountain inside a car.,1.5321957845870226e-20
+7,PV,A woman is  putting a dish inside an oven.,8.657078628576841e-25
+7,IV,A woman is entering an oven.,8.533047625744056e-17
+7,IO,A woman is  putting a door inside an oven.,6.0182559668190596e-27
+8,PV,A man is putting money in a piggy bank.,2.797878602062351e-16
+8,IV,A man is pouring money in a piggy bank.,3.9515850104189484e-19
+8,IO,A man is putting book in a piggy bank.,6.945695018582007e-22
+9,PV,A person is dropping a coin in a glass jar.,7.084801528820555e-20
+9,IV,A person is growing coins in a glass jar.,3.4925147862984684e-22
+9,IO,A person is dropping a dining table in a glass jar.,1.1600491998065607e-26
+10,PV,A pitcher is throwing a ball to a catcher.,6.050836826447881e-17
+10,IV,A pitcher is stretching a ball.,1.1932752768550788e-20
+10,IO,A pitcher is throwing a anvil to a catcher.,1.652232369731882e-25
+11,PV,A dart player is throwing  a dart at a target.,7.4047917530861385e-25
+11,IV,A dart player is eating  a dart.,7.259402395935442e-27
+11,IO,A dart player is throwing a dumbell at a target.,1.1968731142750239e-26
